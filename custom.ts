@@ -15,7 +15,7 @@ enum MyEnum {
  * Custom block
  */
 //% weight=100 color=#42f5ce icon=""
-namespace gameboot {
+namespace game_boot {
     /**
      * TODO: describe your function here
      * @param n describe parameter here, eg: 5
